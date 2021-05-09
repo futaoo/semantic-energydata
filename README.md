@@ -1,1 +1,1 @@
-# semantic-energydata
+# Organizing Decentralized Energy Data Using Semantic Approach
